@@ -1,0 +1,33 @@
+Summary Report:
+------------------------------
+Unique Player Count: 576
+------------------------------
+Purchase Analysis:
+Unique Items: 780
+Average Purchase Price: $3.05
+Number of Purchases: 780
+Total Revenue: $2379.77
+------------------------------
+Gender Demographics:
+Male Players: 84.03% (484)
+Female Players: 14.06% (81)
+Other Players: 1.91% (11)
+------------------------------
+Purchasing Analysis (Gender):
+Male Purchases: 652
+Female Purchases: 113
+
+Male Average Purchase: $3.02
+Female Average Purchase: $3.2
+
+Male Purchase Total: $1967.64
+Female Purchase Total: $361.94
+------------------------------
+Age Demographics:
+------------------------------
+Top Spenders:
+------------------------------
+Most Popular Items:
+------------------------------
+Most Profitable Items:
+------------------------------
